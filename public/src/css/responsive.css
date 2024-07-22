@@ -1,0 +1,87 @@
+@media (max-width: 768px) {
+    .hamburger {
+        display: block;
+    }
+
+    .nav-links {
+        position: fixed;
+        background-color: var(--primary-color);
+        height: 100vh;
+        width: 100%;
+        top: 70px;
+        left: -100%;
+        text-align: center;
+        transition: all 0.3s ease;
+        flex-direction: column;
+        padding-top: 2rem;
+    }
+
+    .nav-links.active {
+        left: 0;
+    }
+
+    .nav-links li {
+        margin: 1.5rem 0;
+    }
+
+    .dropdown-content {
+        position: static;
+        display: none;
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    /* Styles pour l'animation de l'icône hamburger */
+    .hamburger .line {
+        width: 25px;
+        height: 3px;
+        background-color: var(--background-color);
+        margin: 5px;
+        transition: all 0.3s ease;
+    }
+
+    .hamburger.open .line:nth-child(1) {
+        transform: rotate(45deg) translate(5px, 5px);
+    }
+
+    .hamburger.open .line:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open .line:nth-child(3) {
+        transform: rotate(-45deg) translate(5px, -5px);
+    }
+
+    .service-card, .footer-section, .contact-card {
+      flex-basis: 100%;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+    }
+
+    .hero p {
+      font-size: 1rem;
+    }
+
+    .newsletter-form {
+      flex-direction: column;
+    }
+
+    .newsletter-form input,
+    .newsletter-form button {
+      width: 100%;
+      margin-bottom: 1rem;
+      border-radius: 5px;
+    }
+
+    .logo {
+          font-size: 1.3rem;
+          margin: 6px;
+          justify-content: space-between;
+    }
+}

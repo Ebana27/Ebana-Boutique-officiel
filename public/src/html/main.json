@@ -1,0 +1,86 @@
+[
+    {
+    "name": "Robe d'été fleurie",
+    "image": "../assets/article (1).jpeg",
+    "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+    "shine": true,
+    "price": "FCFA"
+    },
+    {
+      "name": "Montre en acier inoxydable",
+      "image": "../assets/article (2).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": true,
+      "price": "FCFA"
+    },
+    {
+      "name": "Sac à main",
+      "image": "../assets/article (3).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": false,
+      "price": "FCFA"
+    },
+    {
+      "name": "Gourde pour enfant",
+      "image": "../assets/article (4).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": true,
+      "price": "FCFA"
+    },
+    {
+      "name": "Ensemble coffret montre",
+      "image": "../assets/article (5).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": false,
+      "price": "FCFA"
+    },
+    {
+      "name": "Complet de Sac Rose",
+      "image": "../assets/article (6).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": true,
+      "price": "FCFA"
+    },
+    {
+      "name": "Complet de Sac Noir",
+      "image": "../assets/article (7).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": false,
+      "price": "FCFA"
+    }, 
+    {
+      "name": "Sandales",
+      "image": "../assets/article (8).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": true,
+      "price": "FCFA"
+    },
+    {
+      "name": "Chemise avec motif abstrait",
+      "image": "../assets/article (9).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": false,
+      "price": "FCFA"
+    },
+    {
+      "name": "Belle robe bleu",
+      "image": "../assets/article (10).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": true,
+      "price": "FCFA"
+    },
+    {
+      "name": "Sandales",
+      "image": "../assets/article (11).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": true,
+      "price": "FCFA"
+    },
+    {
+      "name": "Sac à main en cuirre",
+      "image": "../assets/article (12).jpeg",
+      "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+      "shine": false,
+      "price": "FCFA"
+    }
+  ]

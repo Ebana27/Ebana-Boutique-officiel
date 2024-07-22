@@ -1,0 +1,375 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Description du site -->
+    <meta 
+    name="description" 
+    content="
+    Ebana Boutique est une plateforme de dropshipping et de commerce en ligne qui présente une gamme diversifiée de services et de produits, tout en offrant aux clients la possibilité de les acheter facilement.
+    ">
+
+    <!-- Titre du site -->
+    <title>EBANA BOUTIQUE - Élégance et Style à Brazzaville</title>
+
+    <!-- CDN -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
+    <!-- Icone -->
+    <link rel="shortcut icon" href="./public/src/html/Logo-1.png" type="image/x-icon">
+
+    <!-- CSS style -->
+    <link rel="stylesheet" href="./public/src/css/style.css">
+    <link rel="stylesheet" href="./public/src/css/responsive.css">
+
+</head>
+<body>
+  <header> 
+    <nav class="container">
+      <div class="logo">
+        <img 
+          src="./public/src/html/Logo-1.png" 
+          alt="EBANA BOUTIQUE Logo" 
+          width="40" 
+          height="40">
+        EBANA BOUTIQUE
+      </div>
+      <ul class="nav-links"> 
+        <li><a href="#accueil">Accueil</a></li>
+        <li class="dropdown">
+          <a href="#services">Services</a>
+          <div class="dropdown-content">
+            <a href="#livraison">Livraison</a>
+          </div>
+        </li>
+        <li><a href="#boutique">Boutique</a></li>
+        <li><a href="#temoignages">Témoignages</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <div class="hamburger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section id="accueil" class="hero">
+      <div class="hero-content">
+        <h1>Bienvenue chez EBANA BOUTIQUE</h1>
+        <p>Votre destination mode au cœur de Brazzaville</p>
+        <a href="#boutique" class="cta-button">Découvrir nos produits</a>
+      </div>
+    </section>
+
+    <section id="services" class="section">
+      <div class="container">
+        <h2 class="section-title">Nos Services</h2>
+        <div class="services">
+          <div id="dropshipping" class="service-card">
+            <i class="fas fa-shipping-fast"></i>
+            <h3>Dropshipping de confiance</h3>
+            <p>EBANA BOUTIQUE est votre partenaire de dropshipping fiable, offrant des produits uniques et de qualité à des prix abordables.</p>
+          </div>
+          <div id="livraison" class="service-card">
+            <i class="fas fa-truck"></i>
+            <h3>Livraison à domicile</h3>
+            <p>Profitez de notre service de livraison rapide à Brazzaville. Nous livrons directement chez vous ou vous pouvez récupérer vos achats dans notre local.</p>
+          </div>
+          <div id="qualite" class="service-card">
+            <i class="fas fa-gem"></i>
+            <h3>Qualité garantie</h3>
+            <p>Nous importons soigneusement nos produits de Chine pour vous offrir le meilleur rapport qualité-prix sur le marché congolais.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="conditions-livraison" class="section">
+      <div class="container">
+        <h2 class="section-title">Conditions de Livraison</h2>
+        <div class="services">
+          <div class="service-card">
+            <i class="fas fa-map-marker-alt"></i>
+            <h3>Zone de livraison</h3>
+            <p>Nous livrons dans toute la ville de Brazzaville et ses environs immédiats.</p>
+          </div>
+          <div class="service-card">
+            <i class="fas fa-clock"></i>
+            <h3>Délais de livraison</h3>
+            <p>La livraison est effectuée sous 24 à 48 heures après confirmation de la commande.</p>
+          </div>
+          <div class="service-card">
+            <i class="fas fa-money-bill-wave"></i>
+            <h3>Frais de livraison</h3>
+            <p>Les frais de livraison varient selon la zone. Gratuit pour les commandes de plus de 50 000 FCFA.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="boutique" class="section">
+      <div class="container">
+        <h2 class="section-title">Notre Boutique</h2>
+        <div class="product-grid">
+          <div class="product-card">
+            <img src="./public/src/assets/article (1).jpeg" alt="Robe d'été fleurie" class="product-image" width="250" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Robe d'été fleurie</h3>
+              <p class="product-description">Légère et élégante pour les journées ensoleillées</p>
+              <div class="product-price">15000 FCFA</div>
+              <a href="https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par un article. Votre description : " class="whatsapp-button">
+                <i class="fab fa-whatsapp"></i> Commander
+              </a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="./public/src/assets/article (12).jpeg" alt="Sac à main en cuir" class="product-image" width="250" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Sac à main en cuir</h3>
+              <p class="product-description">Élégant et spacieux pour tous vos essentiels</p>
+              <div class="product-price">25000 FCFA</div>
+              <a href="https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par un article. Votre description : " class="whatsapp-button">
+                <i class="fab fa-whatsapp"></i> Commander
+              </a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="./public/src/assets/article (2).jpeg" alt="Chemise homme" class="product-image" width="250" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Montre</h3>
+              <p class="product-description">Ne soyez plus jamais en retard</p>
+              <div class="product-price">12000 FCFA</div>
+              <a href="https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par un article. Votre description : " class="whatsapp-button">
+                <i class="fab fa-whatsapp"></i> Commander
+              </a>
+            </div>
+          </div>
+          <div class="product-card">
+            <img src="./public/src/assets/article (11).jpeg" alt="Sandales à talons" class="product-image" width="250" height="250">
+            <div class="product-info">
+              <h3 class="product-title">Sandales à talons</h3>
+              <p class="product-description">Confortables et stylées pour toutes les occasions</p>
+              <div class="product-price">18000 FCFA</div>
+              <a href="https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par un article. Votre description : " class="whatsapp-button">
+                <i class="fab fa-whatsapp"></i> Commander
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-btn">
+        <a href="./public/src/html/boutique.html" target="__blank" rel="noopener noreferrer" class="cta-button">Voir Plus d'Articles</a>
+      </div>
+    </section>
+    <section id="temoignages" class="section">
+      <div class="container">
+        <h2 class="section-title">Ce que disent nos clients</h2>
+        <div class="slider-container">
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <p class="testimonial-text">"J'adore les produits d'EBANA BOUTIQUE ! La qualité est exceptionnelle et les prix sont très abordables."</p>
+              <p class="testimonial-author">- Marie K.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"Le service de livraison est rapide et fiable. Je recommande vivement !"</p>
+              <p class="testimonial-author">- Jean P.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"EBANA BOUTIQUE a révolutionné ma garde-robe. Merci pour ces magnifiques produits !"</p>
+              <p class="testimonial-author">- Sophie M.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"Les vêtements sont de très bonne qualité et suivent les dernières tendances. Je suis fan !"</p>
+              <p class="testimonial-author">- Luc D.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"Le service client est exceptionnel. Ils sont toujours à l'écoute et très réactifs."</p>
+              <p class="testimonial-author">- Claire F.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"Les prix sont vraiment compétitifs pour une telle qualité. Bravo EBANA BOUTIQUE !"</p>
+              <p class="testimonial-author">- Paul R.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"J'ai reçu ma commande en temps record. Emballage soigné et produits conformes. Parfait !"</p>
+              <p class="testimonial-author">- Emma L.</p>
+            </div>
+            <div class="swiper-slide">
+              <p class="testimonial-text">"Les accessoires sont magnifiques et complètent parfaitement mes tenues. Je reviendrai !"</p>
+              <p class="testimonial-author">- Thomas B.</p>
+            </div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+       </div>
+        <div class="add-testimonial">
+          <h3>Partagez votre expérience</h3>
+          <form id="testimonial-form" method="POST" name="contact">
+            <textarea id="new-testimonial" placeholder="Votre avis..." required></textarea>
+            <input type="text" id="testimonial-author" placeholder="Votre nom" required>
+            <button type="submit" class="cta-button">Ajouter un témoignage</button>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2 class="section-title">Contactez-nous</h2>
+        <div class="contact-cards">
+          <div class="contact-card">
+            <img src="./public/src/assets/Logo-1.png" alt="Sara Ebana" width="100" height="100">
+            <h3>Sara Ebana</h3>
+            <p>Chef d'entreprise</p>
+            <p>Tél: +221 77 889 83 45</p>
+            <p>Email: saraebana@gmail.com</p>
+          </div>
+          <div class="contact-card">
+            <img src="./public/src/assets/Logo-1.png" alt="Ilaicha Ebana" width="100" height="100">
+            <h3>Ilaicha Ebana</h3>
+            <p>Responsable des ventes</p>
+            <p>Tél: +242 06 404 11 69</p>
+            <p>Email: xxxxxx@gmail.com</p>
+          </div>
+          <div class="contact-card">
+            <img src="./public/src/assets/Logo-1.png" alt="Plamedi Ebana" width="100" height="100">
+            <h3>Plamedi Ebana</h3>
+            <p>Departement informatique</p>
+            <p>Tél: +242 06 775 60 84</p>
+            <p>Email: ebanaplamedy@gmail.com</p>
+          </div>
+        </div>
+        <form class="contact-form" method="POST" name="contact">
+          <div class="form-group">
+            <label for="name">Nom</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" required></textarea>
+          </div>
+          <button type="submit" class="cta-button">Envoyer</button>
+        </form>
+      </div>
+    </section>
+
+    <section class="newsletter">
+      <div class="container">
+        <h3>Restez informé(e) de nos nouveautés</h3>
+        <form class="newsletter-form" method="POST" name="contact">
+          <input type="email" placeholder="Votre adresse email" required>
+          <button type="submit" onclick="waitNews()">S'abonner</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-content">
+      <div class="footer-section">
+        <h3>À propos d'EBANA BOUTIQUE</h3>
+        <p>EBANA BOUTIQUE est votre destination mode à Brazzaville, offrant des produits importés de qualité à des prix abordables.</p>
+      </div>
+      <div class="footer-section">
+        <h3>Liens rapides</h3>
+        <ul>
+          <li><a href="#accueil">Accueil</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#boutique">Boutique</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h3>Suivez-nous</h3>
+        <div class="social-links">
+          <a href="https://www.instagram.com/ebanaboutique" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.tiktok.com/@ebanaboutique" target="_blank" rel="noopener noreferrer"><i class="fab fa-tiktok"></i></a>
+          <a href="https://www.facebook.com/ebanaboutique" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i></a>
+        </div>
+      </div>
+      <div class="footer-section">
+        <h3>Adresse</h3>
+        <p>72 Rue Owogui</p>
+        <p>Brazzaville, Congo</p>
+        <p>Tél: +242 06 404 11 69</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<script>
+    console.log(Swiper); // Doit afficher la fonction Swiper si elle est correctement chargée
+
+var swiper = new Swiper('.swiper-container', {
+  effect: 'coverflow',
+  grabCursor: true,
+  centeredSlides: true,
+  slidesPerView: 'auto',
+  coverflowEffect: {
+    rotate: 50,
+    stretch: 0,
+    depth: 100,
+    modifier: 1,
+    slideShadows: true,
+  },
+  pagination: {
+    el: '.swiper-pagination',
+  },
+  loop: true,
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false,
+  },
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.nav-links');
+
+    hamburger.addEventListener('click', () => {
+        // Toggle la classe 'active' sur le menu de navigation
+        navLinks.classList.toggle('active');
+        
+        // Toggle la classe 'open' sur l'icône du hamburger
+        hamburger.classList.toggle('open');
+    });
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Sélectionne tous les liens de la page
+    var links = document.getElementsByTagName('a');
+
+    // Parcourt tous les liens
+    for (var i = 0; i < links.length; i++) {
+        // Supprime l'attribut target s'il existe
+        links[i].removeAttribute('target');
+
+        // Ajoute un écouteur d'événements pour le clic
+        links[i].addEventListener('click', function(event) {
+            // Empêche le comportement par défaut du lien
+            event.preventDefault();
+
+            // Redirige vers l'URL du lien dans le même onglet
+            window.location.href = this.href;
+        });
+    }
+});
+
+function waitNews() {
+  alert("Bientôt disponible");
+}
+
+  </script>
+
+</body>
+</html>
