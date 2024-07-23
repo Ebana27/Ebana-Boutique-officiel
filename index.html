@@ -209,7 +209,7 @@
        </div>
         <div class="add-testimonial">
           <h3>Partagez votre expérience</h3>
-          <form id="testimonial-form" method="POST" name="contact">
+          <form id="testimonial-form" name="contact" netlify>
             <textarea id="new-testimonial" placeholder="Votre avis..." required></textarea>
             <input type="text" id="testimonial-author" placeholder="Votre nom" required>
             <button type="submit" class="cta-button">Ajouter un témoignage</button>
@@ -244,7 +244,7 @@
             <p>Email: ebanaplamedy@gmail.com</p>
           </div>
         </div>
-        <form class="contact-form" method="POST" name="contact">
+        <form class="contact-form" name="contact" netlify>
           <div class="form-group">
             <label for="name">Nom</label>
             <input type="text" id="name" name="name" required>
@@ -265,7 +265,7 @@
     <section class="newsletter">
       <div class="container">
         <h3>Restez informé(e) de nos nouveautés</h3>
-        <form class="newsletter-form" method="POST" name="contact">
+        <form class="newsletter-form" name="contact" netlify>
           <input type="email" placeholder="Votre adresse email" required>
           <button type="submit" onclick="waitNews()">S'abonner</button>
         </form>
@@ -366,7 +366,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function waitNews() {
-  alert("Bientôt disponible");
+  alert("Bientôt disponible, Merci de votre inscription");
 }
 
   </script>
