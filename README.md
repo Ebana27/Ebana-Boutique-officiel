@@ -1,2 +1,2 @@
 # Ebana-Boutique-officiel
-Ebana Boutique : Votre destination mode au cœur de Brazzaville
+Ebana Boutique : Votre destination mode au cœur de Brazzaville et Sénégal
