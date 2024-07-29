@@ -1,0 +1,329 @@
+ // {
+  //   "name": "Robe de soirée",
+  //   "image": "../assets/article (26).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "T-shirt blanc",
+  //   "image": "../assets/article (27).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Short en denim",
+  //   "image": "../assets/article (28).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Bague en diamant",
+  //   "image": "../assets/article (29).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Cravate en soie",
+  //   "image": "../assets/article (30).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe jaune d'été",
+  //   "image": "../assets/article (31).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Chaussures en cuir",
+  //   "image": "../assets/article (32).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Collier en perles",
+  //   "image": "../assets/article (33).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Pull en laine",
+  //   "image": "../assets/article (34).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Veste en cuir",
+  //   "image": "../assets/article (35).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Chaussures de sport",
+  //   "image": "../assets/article (36).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Pantalon en lin",
+  //   "image": "../assets/article (37).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe verte en soie",
+  //   "image": "../assets/article (38).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Tennis",
+  //   "image": "../assets/article (39).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Manteau d'hiver",
+  //   "image": "../assets/article (40).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe de cocktail",
+  //   "image": "../assets/article (41).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Sandales en cuir",
+  //   "image": "../assets/article (42).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Veste de costume",
+  //   "image": "../assets/article (43).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Bottes",
+  //   "image": "../assets/article (44).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe blanche d'été",
+  //   "image": "../assets/article (45).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Blouson en cuir",
+  //   "image": "../assets/article (46).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Jeans slim",
+  //   "image": "../assets/article (47).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe de mariée",
+  //   "image": "../assets/article (48).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gants en cuir",
+  //   "image": "../assets/article (49).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe à paillettes",
+  //   "image": "../assets/article (50).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Casque audio",
+  //   "image": "../assets/article (51).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Cravate rayée",
+  //   "image": "../assets/article (52).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe rose",
+  //   "image": "../assets/article (53).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Bonnet en laine",
+  //   "image": "../assets/article (54).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Jupe plissée",
+  //   "image": "../assets/article (55).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Pantalon de costume",
+  //   "image": "../assets/article (56).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Écharpe en cachemire",
+  //   "image": "../assets/article (57).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Pantalon en velours",
+  //   "image": "../assets/article (58).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe de bal",
+  //   "image": "../assets/article (59).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet en laine",
+  //   "image": "../assets/article (60).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe turquoise",
+  //   "image": "../assets/article (61).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Manteau en cachemire",
+  //   "image": "../assets/article (62).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Veste imperméable",
+  //   "image": "../assets/article (63).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Robe à pois",
+  //   "image": "../assets/article (64).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": true,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // },
+  // {
+  //   "name": "Gilet matelassé",
+  //   "image": "../assets/article (65).jpeg",
+  //   "orderLink": "https://wa.me/221778898345?text=Salut ! Je m'appelle Nom, j'habite à Pays/Ville et Je suis intéressé(e) par ",
+  //   "shine": false,
+  //   "price": "FCFA"
+  // }
